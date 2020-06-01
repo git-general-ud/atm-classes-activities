@@ -9,6 +9,7 @@
  <h3> Herramienta utilizada: StarUML</h3>
 <hr>
 <img src="https://github.com/git-general-ud/atm-classes-activities/blob/master/Actividades%20Cajero.jpg">
+<img src="https://github.com/git-general-ud/atm-classes-activities/blob/master/Actividades%20Cajero%20v2.jpg">
 <hr>
  <h2> Diagrama de Clases</h2>
 <hr>
